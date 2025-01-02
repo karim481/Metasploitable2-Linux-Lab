@@ -24,6 +24,6 @@ Each vulnerability identified and exploited in this project is detailed in its r
 Every screenshot should have some text explaining what the screenshot is about.
 
 ### List of Vulnerabilities
-- **Vulnerability 1:** [Link to Folder](./Vulnerability1/README.md)
+- **1- Enumerate Ports:** [Link](./Enumerate Ports.md)
 - **Vulnerability 2:** [Link to Folder](./Vulnerability2/README.md)
 - **Vulnerability 3:** [Link to Folder](./Vulnerability3/README.md)
