@@ -9,7 +9,7 @@
     - let's get the IP address of our machine by enumerating the network with Nmap.
       
           `nmap -sn 192.168.1.0/24`
-       
+      
      ![Machine IP](https://github.com/user-attachments/assets/abe2c890-11e1-466c-9d87-90845b5551d3)
 
 2. **Next, let's enumerate the machine's ports.**
